@@ -1,0 +1,7 @@
+name: Bowling Green Campaign
+url: "" # set when deploying
+baseurl: ""
+plugins: []
+markdown: kramdown
+kramdown:
+  input: GFM
