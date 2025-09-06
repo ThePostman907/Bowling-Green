@@ -47,6 +47,7 @@ The `/docs` directory contains detailed planning materials, phase backlogs, and 
 2. Run `bundle install` to install Jekyll and dependencies.
 3. Serve locally with `bundle exec jekyll serve`.
 4. Edit Markdown content or data files, then commit changes via pull request.
+5. Merge to `main` to trigger the GitHub Pages deployment workflow.
 
 ## Documentation
 
