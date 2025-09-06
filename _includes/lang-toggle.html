@@ -1,5 +1,5 @@
 {% if page.lang == "es" %}
-<a href="{{ page.alt }}">English</a>
+<a href="{{ page.alt | relative_url }}">English</a>
 {% else %}
-<a href="{{ page.alt }}">Español</a>
+<a href="{{ page.alt | relative_url }}">Español</a>
 {% endif %}
