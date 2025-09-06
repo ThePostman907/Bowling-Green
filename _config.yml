@@ -1,6 +1,6 @@
 name: Bowling Green Campaign
-url: "" # set when deploying
-baseurl: ""
+url: "https://thepostman907.github.io"
+baseurl: "/Bowling-Green"
 plugins: []
 markdown: kramdown
 kramdown:

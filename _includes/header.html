@@ -1,14 +1,14 @@
 <header>
   <nav>
-    <a href="/">Home</a>
-    <a href="/issues/">Issues</a>
-    <a href="/events/">Events</a>
-    <a href="/volunteer/">Volunteer</a>
-    <a href="/voter-info/">Voter Info</a>
-    <a href="/endorsements/">Endorsements</a>
-    <a href="/newsroom/">Newsroom</a>
-    <a href="/contact/">Contact</a>
-    <a href="/donate/">Donate</a>
+    <a href="{{ '/' | relative_url }}">Home</a>
+    <a href="{{ '/issues/' | relative_url }}">Issues</a>
+    <a href="{{ '/events/' | relative_url }}">Events</a>
+    <a href="{{ '/volunteer/' | relative_url }}">Volunteer</a>
+    <a href="{{ '/voter-info/' | relative_url }}">Voter Info</a>
+    <a href="{{ '/endorsements/' | relative_url }}">Endorsements</a>
+    <a href="{{ '/newsroom/' | relative_url }}">Newsroom</a>
+    <a href="{{ '/contact/' | relative_url }}">Contact</a>
+    <a href="{{ '/donate/' | relative_url }}">Donate</a>
     {% include lang-toggle.html %}
   </nav>
 </header>
