@@ -11,7 +11,7 @@ import Donate from './pages/Donate.jsx';
 
 export default function App() {
   return (
-    <Router>
+    <Router basename="/Bowling-Green/">
       <nav>
         <Link to="/">Home</Link> |{' '}
         <Link to="/issues">Issues</Link> |{' '}
