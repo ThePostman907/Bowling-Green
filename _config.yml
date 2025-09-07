@@ -1,7 +1,0 @@
-name: Bowling Green Campaign
-url: "https://thepostman907.github.io"
-baseurl: "/Bowling-Green"
-plugins: []
-markdown: kramdown
-kramdown:
-  input: GFM
