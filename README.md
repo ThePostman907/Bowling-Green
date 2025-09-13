@@ -1,6 +1,6 @@
 # Bowling Green Campaign Site
 
-This repository now contains a simple static React application built with [Vite](https://vitejs.dev/). The app provides placeholder pages for a local campaign website.
+This repository now contains a single-file React application built with [Vite](https://vitejs.dev/). The app demonstrates a bilingual (English/Spanish) campaign website with TailwindCSS styling and sections for housing, public safety, jobs, clean energy, hospital & Medicaid stability, and community resilience.
 
 ## Development
 
