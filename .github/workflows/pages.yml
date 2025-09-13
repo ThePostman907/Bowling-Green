@@ -32,7 +32,8 @@ jobs:
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./build   # if Vite, use ./dist
+          # Vite outputs the production build to the `dist` directory
+          path: ./dist
   deploy:
     environment:
       name: github-pages
