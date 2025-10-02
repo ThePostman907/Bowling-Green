@@ -1,5 +1,5 @@
 branding:
-  campaignName: "Eric for Council"
+  campaignName: "Eric for Trinidad City Council"
 langNames:
   en: "English"
   es: "Español"
@@ -12,7 +12,7 @@ en:
     receipts: "Track Record"
     getinvolved: "Get Involved"
     newsroom: "Newsroom"
-    donate: "Donate"
+    donate: "We are self-funding our campaign but we do need your time and efforts."
   plans:
     housing: "Housing & Homelessness"
     safety: "Public Safety & Behavioral Health"
@@ -29,7 +29,7 @@ en:
   about:
     title: "About Eric"
     quote: >
-      “Trinidad will soon be facing hard times. I’ve worked the rigs and I’ve worked the classrooms. I swallowed hard and stood up against one of the biggest oil companies in America.  Here’s what it boils down to: When times get hard, we need to shelve our prejudices and party labels and begin seeing one another as members of the same big family, and then work together to protect our family!”  — Eric Treider
+      “Trinidad will soon be facing hard times. I’ve worked on oil rigs and I’ve taught in classrooms. I swallowed hard and stood up against one of the biggest oil companies in America to protest poltical corruption.  Here’s what it boils down to: When times get hard, we need to shelve our prejudices and party labels and begin seeing every here in Trinidad as members of the same big family, and then work together to protect our family!”  — Eric Treider
     runningTitle: "Why I’m running…"
     p1: >
       Trinidad is an amazing town but we are standing at a crossroads: As federal programs are slashed and inflation rises, our local businesses are hurting, our young families are leaving, and our elders are feeling more alone than ever. The warning signs are clear: declining city revenues, rising unemployment, and increased housing insecurity.
@@ -37,7 +37,7 @@ en:
     bullets:
       - "Help return safety and security to our parks and business district!"
       - "Protect Mt. San Rafael Hospital and local healthcare providers from cuts under the “Big Beautiful Bill”"
-      - "Provide safe and sanitary shelter solutions for the unhoused to enhance the wellbeing of everyone."
+      - "Immediately provide safe and sanitary shelter solutions for the unhoused to enhance the wellbeing of everyone, followed by serious efforts to develop a transistional living center to assist people as they attempt to heal and reintegrate into mainstream society."
       - "Reclaim vacant homes and buildings to create affordable housing for workers, seniors, and young families"
       - "Build local food and energy security to withstand hard times"
       - "Make Trinidad a model of resilience, compassion, and local pride"
@@ -55,7 +55,7 @@ en:
       - "A senior outreach worker, supporting Albuquerque’s aging neighbors with compassion and dignity"
       - "A foster caregiver: over ten years, my wife, Nelma, and I provided informal foster care to four teenage boys"
     p6: >
-      Until recently, every week for the past 18 months, Nelma and I prepared and served a hot, nourishing meal to anyone in need. Our commitment to addressing homelessness is action-oriented and rooted in a simple belief: we must put public safety first, and we try hard to live out our Christian faith through service to others.
+      Until recently, every week for the past 18 months, Nelma and I prepared and served a hot, nourishing meal to anyone in need, here in Trinidad. Our commitment to addressing homelessness is action-oriented and rooted in a simple belief: we must put public safety first, and we try hard to live out our Christian faith through service to others.
     finalTitle: "We are doing this for all of the right reasons:"
     p7: >
       Nelma and I live modestly and draw a stable retirement income. I am not beholden to any party machine or corporate donor and Nelma and I are self-financing our campaign. Our only loyalty is to the people of Trinidad.
@@ -79,7 +79,7 @@ en:
     title: "Public Safety & Behavioral Health"
     summary: "Real safety means treatment, de-escalation, and trusted responders."
     p1h: "CARE Teams"
-    p1: "Pilot a clinician–EMT co-responder model for behavioral health calls; free officers to focus on violent and property crime."
+    p1: "Expand on the Trinidad Police Department's co-responder model for behavioral health calls; this frees officers to focus on violent and property crime."
     p2h: "Recovery"
     p2: "Expand treatment slots and peer support; create diversion in municipal court with case managers."
     p3h: "Prevention"
@@ -89,16 +89,17 @@ en:
     summary: "Keep dollars local, streamline permitting, and help hire."
     a1: "One-stop permit concierge."
     a2: "Local procurement goals and vendor fairs."
-    a3: "Youth apprenticeships tied to city projects."
+    a3: "Youth apprenticeships tied to city projects, such as refurbishing some of our 130 shuttered houses and restoring housing above downtown businesses."
+    a4: "Support more street fairs and community events. These activities bring in dollars from outside our community."
   energy:
     title: "Clean Energy & Resilience"
     summary: "Lower bills, cleaner air, and a grid that bounces back."
-    a1: "Solar + batteries on public buildings and community subscriptions for low-income homes."
+    a1: "Adopt VIRTUAL POWER PLANT technology that permits homeowners to incorporate battery storage with their solar systems in a way that lowers power bills for everyone."
     a2: "Weatherization and heat pumps for seniors."
     a3: "Neighborhood resilience hubs with backup power."
   hospital:
     title: "Hospital & Medicaid Stability"
-    summary: "A healthy city needs a healthy hospital. We’ll defend Medicaid access, protect essential services, and keep care local."
+    summary: "A healthy city needs a healthy hospital and nursing home. We MUST develop methods to support Mt. San Rafael Hospital and Trinidad Inn if their viability is threatened due to Medicaid cuts."
     p1h: "Defend the Safety Net"
     p1: "Stand with patients and providers to oppose cuts that shift costs to families and push hospitals to the brink."
     p2h: "Keep Care Close"
@@ -127,32 +128,28 @@ en:
     note: "Titles for identification only. Organizations listed with permission."
   receipts:
     title: "Track Record"
-    r1h: "Convened partners for a stronger winter shelter response"
-    r1: "Helped bring service providers and neighbors to the same table—supporting more consistent outreach and care."
-    r2h: "Built practical tools for dignity and recovery"
-    r2: "Designed classroom-ready guides for crisis intervention and motivational interviewing used in correctional education."
+    r1h: "Supporting Our Homeless Brothers and Sisters"
+    r1: "Appeared before the Trinidad City Council twice to advocate on behalf of the homeless and partnering with the local Coaltion for the Unhoused for Las Animas and Huerfano Counties and supporting the efforts of a similar coaltion in Raton."
+    r2h: "Helping Incarcerated Men Transform Their Lives"
+    r2: "Designed a human services corriculum for nine incarcerated students at Trinidad Correctional Facility."
   newsroom:
     title: "Newsroom"
-    n1h: "Release: Campaign Launch"
-    n1: "Neighbors gathered to kick off a campaign centered on housing, health, and honesty."
-    n2h: "Op-Ed: A Budget that Tells the Truth"
-    n2: "Why plain-language budgeting matters in small cities—and how Trinidad can lead."
-    presskit: "Download press kit"
+    n1h:  
   involved:
     title: "Get Involved"
     p1: "This is a people-powered campaign. Lend your hands, heart, and good ideas."
     b1: "Knock doors or phonebank"
     b2: "Host a house meeting"
     b3: "Plant a yard sign"
-    cta: "Chip in"
+    cta: "We are self-funding but we need your time and your support."
     formH: "Volunteer sign-up"
     formP: "The form loads below; if it doesn't, use the direct link."
     direct: "Open the form in a new tab →"
   footer:
     heading: "Eric for Council"
-    address: "PO Box 123 • Trinidad, CO 81082"
-    email: "info@ericforcouncil.org"
-    paid: "Paid for by Friends of Eric Treider"
+    address: "PO Box 41 • Trinidad, CO 81082"
+    email: "trinidadrising@gmail.com"
+    paid: "Paid for by Eric Treider"
     links:
       facebook: "Facebook"
       instagram: "Instagram"
